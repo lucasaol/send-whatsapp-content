@@ -17,9 +17,10 @@ Use com moderação. ⚠️
 2. Segunda etapa (Necessário para cada filme que deseja enviar):
    * Escolha um filme para enviar, abaixo está a tabela com os conteúdos disponíveis:
   
-      | Filme | Arquivo |
-      | ----- |:-------:|
-      | Teste | [src/movies/test.js](https://raw.githubusercontent.com/lucasaol/send-whatsapp-content/refs/heads/main/src/movies/test.js)   |
+      | Filme   | Arquivo |
+      | ------- |:-------:|
+      | Teste   | [src/movies/test.js](https://raw.githubusercontent.com/lucasaol/send-whatsapp-content/refs/heads/main/src/movies/test.js)         |
+      | Shrek 2 | [src/movies/shrek-2.js](https://raw.githubusercontent.com/lucasaol/send-whatsapp-content/refs/heads/main/src/movies/shrek-2.js)   |
 
     * Da mesma forma, abra o arquivo e copie todo seu conteúdo.
   
